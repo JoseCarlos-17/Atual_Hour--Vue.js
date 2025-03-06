@@ -1,4 +1,4 @@
-# versao_vue.js
+## versao_vue.js
 
 ## Project setup
 ```
